@@ -1,4 +1,5 @@
-# Three.js Journey
+# Hosted @
+galaxy-visualizer.vercel.app
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
