@@ -47,7 +47,7 @@ const parameters = {
 /*
  * Debug Panel
  */
-gui.add(parameters, 'count').min(100).max(30000).name('Particle No.').onFinishChange(generateGalaxy).step(100);
+gui.add(parameters, 'count').min(100).max(300000).name('Particle No.').onFinishChange(generateGalaxy).step(100);
 gui.add(parameters, 'size').min(0.001).max(1).name('Particle size').onFinishChange(generateGalaxy).step(0.001);
 gui.add(parameters, 'radius').min(0.01).max(20).name('Galaxy Radius').onFinishChange(generateGalaxy).step(0.01);
 gui.add(parameters, 'branches').min(3).max(10).name('Galaxy Branches').onFinishChange(generateGalaxy).step(1);
