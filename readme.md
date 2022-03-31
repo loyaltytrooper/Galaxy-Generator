@@ -1,5 +1,5 @@
 # Hosted @
-[Galaxy-Visualizer](galaxy-visualizer.vercel.app)
+[Galaxy-Visualizer](https://galaxy-visualizer.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
