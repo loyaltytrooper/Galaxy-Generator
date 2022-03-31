@@ -26,7 +26,7 @@ var presets = {};
  */
 const parameters = {
     count  : 24000,
-    size : 0.03,
+    size : 0.005,
     radius : 3.5,
     branches : 5,
     spin : 1.68,
